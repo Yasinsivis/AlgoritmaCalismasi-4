@@ -1,0 +1,8 @@
+C:\c#\Proje44\bin\Debug\Proje44.exe.config
+C:\c#\Proje44\bin\Debug\Proje44.exe
+C:\c#\Proje44\bin\Debug\Proje44.pdb
+C:\c#\Proje44\obj\Debug\Proje44.csproj.AssemblyReference.cache
+C:\c#\Proje44\obj\Debug\Proje44.csproj.SuggestedBindingRedirects.cache
+C:\c#\Proje44\obj\Debug\Proje44.csproj.CoreCompileInputs.cache
+C:\c#\Proje44\obj\Debug\Proje44.exe
+C:\c#\Proje44\obj\Debug\Proje44.pdb
